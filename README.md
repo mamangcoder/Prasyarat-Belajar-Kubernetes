@@ -92,7 +92,7 @@ termasuk mesin virtual, penyimpanan, dan layanan jaringan.
 - Cost Management: Monitoring, budgeting, optimization.
 - Hands-On Practice: Experiment on a cloud platform for practical experience.
 
-## YAML
+## 6. YAML
 YAML - Yet Another Markup Language or “YAML Ain’t Markup Language”
 YAML is to create manifest files responsible to create kubernetes object in declarative way. So
 having understanding of how to write in YAML is important!
